@@ -4,7 +4,7 @@
     <groupId>org.wymiwyg</groupId>
     <artifactId>wymiwyg</artifactId>
     <packaging>pom</packaging>
-	<version>0.9.5-SNAPSHOT</version>
+	<version>0.9.5</version>
     <name>WYMIWYG</name>
     <description>Shared parent, describing properties in common to all wymiwyg projects.</description>
     <url>http://developer.berlios.de/projects/wymiwyg/</url>
@@ -12,7 +12,8 @@
         <developerConnection>scm:git:git@github.com:retobg/wymiwyg-parent.git</developerConnection>
         <connection>scm:git:https://github.com/retobg/wymiwyg-parent.git</connection>
         <url>https://github.com/retobg/wymiwyg-parent</url>
-    </scm>
+      <tag>wymiwyg-0.9.5</tag>
+  </scm>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
