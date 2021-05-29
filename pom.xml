@@ -4,7 +4,7 @@
     <groupId>org.wymiwyg</groupId>
     <artifactId>wymiwyg</artifactId>
     <packaging>pom</packaging>
-	<version>0.9.10-SNAPSHOT</version>
+	<version>0.9.9-SNAPSHOT</version>
     <name>WYMIWYG</name>
     <description>Shared parent, describing properties in common to all wymiwyg projects.</description>
     <url>http://developer.berlios.de/projects/wymiwyg/</url>
