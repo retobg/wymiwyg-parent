@@ -12,8 +12,8 @@
         <developerConnection>scm:git:git@github.com:retog/wymiwyg-parent.git</developerConnection>
         <connection>scm:git:https://github.com/retog/wymiwyg-parent.git</connection>
         <url>https://github.com/retog/wymiwyg-parent</url>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
